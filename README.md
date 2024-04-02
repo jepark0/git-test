@@ -22,3 +22,6 @@ branch1 commit5
 branch1 commit6
 
 hotfix1
+
+branch2 commit1
+branch2 commit2
